@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+
+.topnav a{
+	color:orangered;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#top h1{
+	background-size: cover;
+	color: orangered;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#top p{
+color: white;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#top h4{
+	color: orangered;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#top h3{
+	color: orangered;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#top strong{
+	color: orangered;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#fotter{
+	background-color:#353434;
+}
+#fotter a:hover{
+	
+
+}
+#low p{
+color: white;
+}

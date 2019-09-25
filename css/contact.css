@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+.topnav strong{
+	color: orangered;
+}
+.topnav li a:hover{
+	color: orangered;
+}
+
+
+
+#top h{
+	color: orangered;
+}
+#fotter{
+	background-color:#353434;
+}
+
+#low p{
+color: white;
+}

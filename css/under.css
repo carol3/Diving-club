@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+#top{	
+background-image: url(../img/background3.jpg);
+	
+}
+#top li a{
+	color: orangered;
+	padding-left: 700%;
+}
+#top p{
+	color: white;
+}
+#top h1{
+	color: white;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+}
+#center{
+	margin-left: 100%;
+	margin-right: 100% ;
+}
+#foter a:hover{
+	color: orangered;
+}
+.btn{
+	border-radius: 10px;
+	border-color: aliceblue;
+	color: orangered;
+}
+.btn:hover{
+	
+}

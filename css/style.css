@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+.topnav{
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+}
+.topnav li a:hover{
+color: orangered;
+	
+}
+.topnav strong{
+	color: orangered;
+	
+}
+#about{
+	background-color:orangered;
+}
+#accordion p{
+color: orangered;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		
+}
+#event h1{
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	
+	
+}
+	
+#about h1{
+	color: white;
+	font-size: 50px;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#about p{
+	color: white;
+}
+#features{
+	padding-bottom: 90px;
+}
+#features strong {
+	color: orangered;
+	font-size: 35px;
+}
+#features p{
+	color: white;
+	padding-left: 45px;
+	font-size: 15px;
+}
+#features h1{
+	color: white;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#mid{
+	padding-bottom: 90px;
+} 
+#mid row1{
+	padding-top: 55px;
+}
+					
+				  
+#mid h1{
+	color: orangered;
+font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	font-size: 40px;
+}
+#mid p{
+	color: whitesmoke;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+    font-size: 15px;
+}
+.under{
+	background-color: black;
+	opacity:0.5;
+	padding-bottom: 30px;
+}
+
+#fotter{
+	background-color:#353434;
+}
+#fotter.li:hover{
+	color: white;
+}
+#low p{
+color: white;
+}
